@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Btech-Projcet/static/css/main.6b59eab4.css",
-    "main.js": "/Btech-Projcet/static/js/main.64a643c2.js",
-    "static/js/453.eb3d42df.chunk.js": "/Btech-Projcet/static/js/453.eb3d42df.chunk.js",
-    "index.html": "/Btech-Projcet/index.html",
-    "main.6b59eab4.css.map": "/Btech-Projcet/static/css/main.6b59eab4.css.map",
-    "main.64a643c2.js.map": "/Btech-Projcet/static/js/main.64a643c2.js.map",
-    "453.eb3d42df.chunk.js.map": "/Btech-Projcet/static/js/453.eb3d42df.chunk.js.map"
+    "main.css": "/Btech-Project/static/css/main.6b59eab4.css",
+    "main.js": "/Btech-Project/static/js/main.df3e72ad.js",
+    "static/js/453.eb3d42df.chunk.js": "/Btech-Project/static/js/453.eb3d42df.chunk.js",
+    "index.html": "/Btech-Project/index.html",
+    "main.6b59eab4.css.map": "/Btech-Project/static/css/main.6b59eab4.css.map",
+    "main.df3e72ad.js.map": "/Btech-Project/static/js/main.df3e72ad.js.map",
+    "453.eb3d42df.chunk.js.map": "/Btech-Project/static/js/453.eb3d42df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b59eab4.css",
-    "static/js/main.64a643c2.js"
+    "static/js/main.df3e72ad.js"
   ]
 }
