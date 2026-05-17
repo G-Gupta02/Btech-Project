@@ -1,0 +1,23 @@
+=================================================================
+  FINAL PROJECT: 5G Resource Allocation Comparison
+  Phase 1 Baselines  vs  Phase 2 Dueling Double DQN
+=================================================================
+
+  Eval Steps : 2000 | Seed: 42 | Users: 10
+  Environment: Realistic 5G (500m cell, path-loss a=3.5)
+
+  Algorithm               Avg Throughput (Mbps)   Jain Fairness
+  --------------------------------------------------------------
+  Round Robin                            2.4905          0.5500
+  Max-SNR                                7.5632          0.1591
+  Proportional Fair                      5.8154          0.3138
+  Dueling Double DQN                     2.0958          0.3905
+=================================================================
+
+  Best Throughput : Max-SNR  (7.5632 Mbps)
+  Best Fairness   : Round Robin  (0.5500)
+
+  --- Gains of Dueling Double DQN vs Baselines ---
+  vs Round Robin            | Throughput: -15.8%   Fairness: -29.0%
+  vs Max-SNR                | Throughput: -72.3%   Fairness: +145.5%
+  vs Proportional Fair      | Throughput: -64.0%   Fairness: +24.4%
